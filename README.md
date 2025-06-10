@@ -36,6 +36,7 @@ Sou proativa, comunicativa e estou sempre em busca de aprendizado constante. Ten
 
 <h3 align="center">💜 Conecte-se Comigo</h3>
 <p align="center">
+  
   <a href="mailto:dsrvitoria@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A529F7&color=000" alt="Email">
   </a>
@@ -45,10 +46,7 @@ Sou proativa, comunicativa e estou sempre em busca de aprendizado constante. Ten
   <a href="https://github.com/desiree2522" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=A529F7&color=000" alt="GitHub">
   </a>
-  <a href="https://discordapp.com/users/seuid" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=A529F7&color=000" alt="Discord">
-  </a>
-</p>
+ 
 
 <h3 align="center">📊 GitHub Stats</h3>
 
